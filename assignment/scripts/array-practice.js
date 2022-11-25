@@ -46,11 +46,11 @@ console.log('--- 4. Adding and removing array items ---');
 
 // Example: Add an animal to the end using Array.push
 animalArray.push('penguin');
-console.log('Added an animal to end,', animalArray);
+console.log('Added an animal to end', animalArray);
 
 // 4.a. TODO: Add a new food at the end of your array & log the array
 favoriteFoods.push('taco');
-console.log('Added a new food to the end,', favoriteFoods);
+console.log('Added a new food to the end', favoriteFoods);
 
 
 // Example: Remove the last animal by using Array.pop
